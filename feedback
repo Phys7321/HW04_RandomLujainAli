@@ -1,0 +1,3 @@
+11.17
+Finally getting to look at HW4. I think you almost done. In problem 1, you don't seem so sure about the autocorrelation value you should be comparing to, does it fail this test? 
+On problem 2, while the acceptance ratio should decease with increasing delta steps, I don't see you say anything about equilibration time. Granted this is a fuzzy concept, but you should address in some way. 
